@@ -211,6 +211,20 @@
     <alias name="fantasy" to="samsungone" />
     <alias name="ITC Stone Serif" to="samsungone" />
 
+    <family customizationType="new-named-family" name="arial-italic">
+        <font weight="300" style="normal">Arial-Italic.ttf</font>
+    </family>
+    <alias name="arial-italic-bold" to="arial-italic" weight="600" />
+    <alias name="arial-italic-medium" to="arial-italic" weight="400" />
+    <alias name="times" to="arial-italic" />
+    <alias name="times new roman" to="arial-italic" />
+    <alias name="palatino" to="arial-italic" />
+    <alias name="georgia" to="arial-italic" />
+    <alias name="baskerville" to="arial-italic" />
+    <alias name="goudy" to="arial-italic" />
+    <alias name="fantasy" to="arial-italic" />
+    <alias name="ITC Stone Serif" to="arial-italic" />
+
     <family customizationType="new-named-family" name="san-francisco-pro-display">
       <font weight="400" style="normal">SFProDisplay-Regular.ttf</font>
       <font weight="500" style="normal">SFProDisplay-Medium.ttf</font>
